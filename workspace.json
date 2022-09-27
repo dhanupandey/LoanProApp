@@ -1,0 +1,9 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "api": "apps/api",
+    "loan-pro-app": "apps/loan-pro-app",
+    "loan-pro-app-e2e": "apps/loan-pro-app-e2e"
+  }
+}
